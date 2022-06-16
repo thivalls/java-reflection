@@ -1,0 +1,28 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "test3".(È¾Šâ
+O
+java:S1854"9Remove this useless assignment to local variable "test2".(á÷”á
+U
+java:S1854"?Remove this useless assignment to local variable "subControle".(à·“ê
+7
+java:S1116"Remove this empty statement.(“¼Ú„ûÿÿÿÿ
+F
+java:S1481"0Remove this unused "subControle" local variable.(à·“ê
+W
+java:S2133"BRemove this object instantiation and use "Controle.class" instead.(ÎúðS
+N
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(±Â’ëøÿÿÿÿ
+I
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(á÷”á
+@
+java:S1481"*Remove this unused "test2" local variable.(á÷”á
+I
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(È¾Šâ
+@
+java:S1481"*Remove this unused "test3" local variable.(È¾Šâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¢çðýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¿Š“úÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(§¯ñš
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
