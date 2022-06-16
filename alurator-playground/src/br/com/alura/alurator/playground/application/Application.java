@@ -17,7 +17,7 @@ public class Application {
 
         // second method
         Controle controle = new Controle();
-        SubControle subControle = new SubControle();
+        // SubControle subControle = new SubControle();
         Class<? extends Controle> controleClass2 = controle.getClass();
 
         // third method
